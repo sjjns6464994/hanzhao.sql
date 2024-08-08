@@ -1,0 +1,1 @@
+select user_profile.device_id,user_profile.gender,user_profile.age,user_profile.university from user_profile 
